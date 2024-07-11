@@ -1,5 +1,5 @@
 .quoteCard{
-    background-color: rgb(126, 154, 145);
+    background-color: rgb(169, 41, 122);
     /* border: 2px solid red; */
     display: flex;
     flex-direction: column;
@@ -9,7 +9,6 @@
     margin: 0 2rem 2rem 2rem;
     box-shadow:1px 2px 8px #000000;
     row-gap: 1rem;
-    border-radius: 14rem 0rem;
     
 }
 .quoteCard:hover {
